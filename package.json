@@ -1,0 +1,30 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vietphong96/nodejs_blog.git"
+  },
+  "keywords": [
+    "blog",
+    "jindev"
+  ],
+  "author": "phongmv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vietphong96/nodejs_blog/issues"
+  },
+  "homepage": "https://github.com/vietphong96/nodejs_blog#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
